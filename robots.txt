@@ -1,0 +1,8 @@
+# MoltViewer Website Robots.txt
+# https://bigkrzyh.github.io/MoltViewer/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://bigkrzyh.github.io/MoltViewer/sitemap.xml
