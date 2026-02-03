@@ -10,6 +10,8 @@
         <priority>1.0</priority>
         <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/MoltViewer/ru/"/>
+        <xhtml:link rel="alternate" hreflang="zh-HK" href="https://bigkrzyh.github.io/MoltViewer/zh-HK/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://bigkrzyh.github.io/MoltViewer/"/>
     </url>
     
@@ -21,10 +23,38 @@
         <priority>0.9</priority>
         <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/MoltViewer/ru/"/>
+        <xhtml:link rel="alternate" hreflang="zh-HK" href="https://bigkrzyh.github.io/MoltViewer/zh-HK/"/>
         <xhtml:link rel="alternate" hreflang="x-default" href="https://bigkrzyh.github.io/MoltViewer/"/>
     </url>
     
-    <!-- Privacy Policy - Polish -->
+    <!-- Russian -->
+    <url>
+        <loc>https://bigkrzyh.github.io/MoltViewer/ru/</loc>
+        <lastmod>2026-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/MoltViewer/ru/"/>
+        <xhtml:link rel="alternate" hreflang="zh-HK" href="https://bigkrzyh.github.io/MoltViewer/zh-HK/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://bigkrzyh.github.io/MoltViewer/"/>
+    </url>
+    
+    <!-- Chinese (Hong Kong) -->
+    <url>
+        <loc>https://bigkrzyh.github.io/MoltViewer/zh-HK/</loc>
+        <lastmod>2026-01-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/MoltViewer/ru/"/>
+        <xhtml:link rel="alternate" hreflang="zh-HK" href="https://bigkrzyh.github.io/MoltViewer/zh-HK/"/>
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://bigkrzyh.github.io/MoltViewer/"/>
+    </url>
+    
+    <!-- Privacy & Terms - all languages -->
     <url>
         <loc>https://bigkrzyh.github.io/MoltViewer/privacy.html</loc>
         <lastmod>2026-01-31</lastmod>
@@ -32,9 +62,9 @@
         <priority>0.5</priority>
         <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/privacy.html"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/privacy.html"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/MoltViewer/ru/privacy.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-HK" href="https://bigkrzyh.github.io/MoltViewer/zh-HK/privacy.html"/>
     </url>
-    
-    <!-- Privacy Policy - English -->
     <url>
         <loc>https://bigkrzyh.github.io/MoltViewer/en/privacy.html</loc>
         <lastmod>2026-01-31</lastmod>
@@ -42,9 +72,9 @@
         <priority>0.5</priority>
         <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/privacy.html"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/privacy.html"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/MoltViewer/ru/privacy.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-HK" href="https://bigkrzyh.github.io/MoltViewer/zh-HK/privacy.html"/>
     </url>
-    
-    <!-- Terms of Use - Polish -->
     <url>
         <loc>https://bigkrzyh.github.io/MoltViewer/terms.html</loc>
         <lastmod>2026-01-31</lastmod>
@@ -52,9 +82,9 @@
         <priority>0.5</priority>
         <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/terms.html"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/MoltViewer/ru/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-HK" href="https://bigkrzyh.github.io/MoltViewer/zh-HK/terms.html"/>
     </url>
-    
-    <!-- Terms of Use - English -->
     <url>
         <loc>https://bigkrzyh.github.io/MoltViewer/en/terms.html</loc>
         <lastmod>2026-01-31</lastmod>
@@ -62,6 +92,8 @@
         <priority>0.5</priority>
         <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/terms.html"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bigkrzyh.github.io/MoltViewer/ru/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="zh-HK" href="https://bigkrzyh.github.io/MoltViewer/zh-HK/terms.html"/>
     </url>
     
 </urlset>
