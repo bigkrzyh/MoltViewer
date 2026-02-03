@@ -44,4 +44,24 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/privacy.html"/>
     </url>
     
+    <!-- Terms of Use - Polish -->
+    <url>
+        <loc>https://bigkrzyh.github.io/MoltViewer/terms.html</loc>
+        <lastmod>2026-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/terms.html"/>
+    </url>
+    
+    <!-- Terms of Use - English -->
+    <url>
+        <loc>https://bigkrzyh.github.io/MoltViewer/en/terms.html</loc>
+        <lastmod>2026-01-31</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+        <xhtml:link rel="alternate" hreflang="pl" href="https://bigkrzyh.github.io/MoltViewer/terms.html"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://bigkrzyh.github.io/MoltViewer/en/terms.html"/>
+    </url>
+    
 </urlset>
